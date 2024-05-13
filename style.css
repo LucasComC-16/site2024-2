@@ -24,3 +24,10 @@ font-size: 30px;
 margin: 0 16px;
 padding: 24px 0;
 }
+
+.nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
